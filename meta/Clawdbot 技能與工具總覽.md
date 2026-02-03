@@ -1,5 +1,4 @@
-# Clawdbot Skills ＋ 工具盤點（目前這台機器）
-
+# Clawdbot Skills ＋ 工具盤點
 > 整理你現在這個環境的 **Skills（高階能力包）** 和 **工具（底層 function / CLI）**：有哪些、在做什麼、怎麼用。
 
 ---
